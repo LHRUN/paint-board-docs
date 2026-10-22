@@ -28,7 +28,10 @@ const enSidebar = [
   },
   {
     text: 'Project',
-    items: [{ text: 'About the project', link: '/about' }]
+    items: [
+      { text: 'About the project', link: '/about' },
+      { text: 'CHANGELOG', link: 'https://github.com/LHRUN/paint-board/blob/main/CHANGELOG.md' }
+    ]
   }
 ]
 
@@ -46,7 +49,10 @@ const zhSidebar = [
   },
   {
     text: '项目',
-    items: [{ text: '关于项目', link: '/zh/about' }]
+    items: [
+      { text: '关于项目', link: '/zh/about' },
+      { text: 'CHANGELOG', link: 'https://github.com/LHRUN/paint-board/blob/main/CHANGELOG.md' }
+    ]
   }
 ]
 

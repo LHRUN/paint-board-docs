@@ -46,7 +46,7 @@ Three fonts are built in: Georgia, Fredoka One, and Hanalei Fill. In font settin
 
 ## Pictures
 
-Click the image button on the bottom toolbar to add a picture.
+Click the image button on the bottom toolbar to add a picture. In addition, the PC version supports dragging and dropping images directly onto the canvas to add them.
 
 After you pick a file, the upload window can crop it, remove the background, or run image segmentation.
 
